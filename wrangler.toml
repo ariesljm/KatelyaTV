@@ -11,7 +11,7 @@ name = "katelyatv"
 [[env.production.d1_databases]]
 binding = "DB"
 database_name = "katelyatv-db"
-database_id = "6d580637-1f87-4ddf-8b4d-3d97254b4c33"
+database_id = "ae81176a-d469-47cf-a8fd-b5794e8b1838"
 
 # 生产环境变量
 [env.production.vars]
